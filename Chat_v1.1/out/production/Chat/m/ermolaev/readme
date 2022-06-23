@@ -1,0 +1,4 @@
+To run the server - launch configuration "Server" with main class - m.ermolaev.server.Server
+To add new user - launch configuration "User" with main class - m.ermolaev.user.User
+You can add more users to chat by launching more user configurations.
+Remember to run the Server before adding new users.
